@@ -1,46 +1,40 @@
 # Hi, I'm Anuj Bhure 👋
 
-🎓 BTech CSE Student (3rd Year) at MIT World Peace University, Pune  
-🔐 Specializing in Cybersecurity with a focus on practical, project-based learning  
-🐍 Building real tools with Python, Linux, and Bash  
-🌱 Currently working through a structured roadmap covering Linux, Networking, Python, and Security
+🎓 BTech CSE Student (3rd Year) at MIT World Peace University, Pune
+💻 Interested in Software Development, Machine Learning, and Full Stack Engineering
+🧠 Actively practicing Data Structures & Algorithms (C++)
+🌱 Building real projects from scratch — no vibe coding
 
 ---
 
 ## 🛠️ What I'm Working On
-- Linux fundamentals and shell scripting
-- Python scripting for security automation
-- Networking concepts (TCP/IP, DNS, HTTP, ports)
-- Cybersecurity labs on TryHackMe and OverTheWire
-
----
-
-## 💻 Tech Stack
-- **Languages:** Python, C, C++, Bash
-- **OS:** Linux (Ubuntu), Windows
-- **Tools:** Nmap, Git, Bash scripting
-- **Learning:** Web security, network defense, ethical hacking
+- Data Structures & Algorithms in C++ (LeetCode daily)
+- Full Stack Development (HTML, CSS, JS, Node.js)
+- Machine Learning applied to real problems
 
 ---
 
 ## 📂 Projects
+
 | Project | Description | Tech |
-|---|---|---|
-| Log Analyzer | Detects suspicious activity from system logs | Python, Bash |
-| Port Scanner | Scans a target for open ports | Python, Nmap |
+|--------|-------------|------|
+| [AI-Powered Log Anomaly Detector](https://github.com/anujdbhure/log-anomaly-detector) | Ensemble ML pipeline (Isolation Forest + LOF + One-Class SVM) to detect anomalies in system logs. F1: 0.968, validated on HDFS benchmark. | Python, scikit-learn |
 
-*(More projects being added regularly)*
-
----
-
-## 📜 Certifications
-*(In progress — updating as completed)*
+*(More projects in progress — adding as I build them myself)*
 
 ---
 
-## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anuj%20Bhure-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anuj-d-bhure-05b22a373)
+## 🧰 Tech Stack
+**Languages:** C++, Python, C, Bash
+**Tools:** Git, GitHub, Linux/Ubuntu, VS Code
+**ML/Data:** scikit-learn, pandas, numpy
+**Currently Learning:** Full Stack (HTML/CSS/JS/Node.js), System Design, DSA patterns
 
 ---
 
-*"Learning by building — every project is a step forward."*
+## 📫 Connect
+[LinkedIn](https://linkedin.com/in/anuj-d-bhure-05b22a373)
+
+---
+
+*"The only way to learn is to build it yourself."*
